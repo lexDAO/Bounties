@@ -6,3 +6,4 @@ Bounty Board for LexDAO Lawyers, Engineers &amp; Contractors
 
 * [LexDAOism](https://medium.com/lexdaoism) Article for [LexToken](https://github.com/lexDAO/LexToken) - 4 $LXK - assigned by Ross
 * [LexDAOism](https://medium.com/lexdaoism) Article for [LexLocker](https://github.com/lexDAO/LexLocker) - 4 $LXK - assigned by Ross
+* Create [LexLocker](https://etherscan.io/address/0xB900252A7d344a85625ba675c436B1A1b3151346#writeContract) deal - 1 $LXK - assigned by Ross
